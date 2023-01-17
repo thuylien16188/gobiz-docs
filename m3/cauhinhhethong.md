@@ -1,4 +1,4 @@
-# Cấu hình
+# Cấu hình Khiếu nại
 
 **Mục đích**: Chức năng này cho phép quý khách có thể quản lý mục tài chính trên đơn, chỉnh sửa mục tài chính và thêm thông tin người gây ra lỗi. Ngoài ra quý khách có thể cấu hình số tiền duyệt trên khiếu nại cho mỗi nhân viên.
 
@@ -24,13 +24,21 @@ Tại chi tiết khiếu nại, phần mục tài chính, quý khách sẽ thấ
 
 ![Th&#xF4;ng tin m&#x1EE5;c t&#xE0;i ch&#xED;nh trong chi ti&#x1EBF;t khi&#x1EBF;u n&#x1EA1;i](https://user-images.githubusercontent.com/64824123/103726433-7ef85b80-500b-11eb-8d24-eaedfe7f8549.png)
 
-**II. Thêm người gây ra lỗi**
+
+**II. Cấu hình thêm Nhân viên**
+
+**Bước 1**: Vào mục **Danh sách Nhân viên** (1) trong menu => Chọn **Thêm nhân viên** (2) => Điền email của tài khoản Nhân viên muốn thêm (3) => Chọn **Đồng ý** (4) như hình:
+**Lưu ý**: Về hạn mức số tiền được duyệt: Quý khách có thể cấp 1 số tiền hạn mức bất kỳ hoặc không cần cấp hạn mức nếu Nhân viên chỉ có chức năng xử lý khiếu nại mà không có chức năng duyệt Khiếu nại.
+
+<img width="1398" alt="image" src="https://user-images.githubusercontent.com/122801493/212803555-4c26c745-c488-4c75-9110-e1b56fc14c90.png">
+
+**III. Thêm người gây ra lỗi**
 
 **Bước 1**: Quý khách truy cập vào trang **Cấu hình** từ menu bên trái màn hình:
 
 ![Menu c&#x1EA5;u h&#xEC;nh](https://user-images.githubusercontent.com/64824123/103725340-ee208080-5008-11eb-96b9-37d7ba21ab50.png)
 
-**Bước 2**: Tại màn hình **Cấu hình**, mục thêm người gây ra lỗi, quý khách thực hiện nhập đầy đủ các thông tin bắt buộc \(1\), \(2\), \(3\), sau đó ấn chọn \(4\) để thêm thông tin người gây ra lỗi:
+**Bước 2**: Tại màn hình **Cấu hình**, mục thêm người gây ra lỗi, quý khách thực hiện nhập đầy đủ các thông tin bắt buộc \(1\), \(2\), \(3\), sau đó ấn chọn \(4\) để thêm thông tin người gây ra lỗi (có thể cấu hình Bộ phận hoặc cá nhân gây ra lỗi tùy theo nhu cầu của Quý khách):
 
 ![Nh&#x1EAD;p th&#xF4;ng tin ng&#x1B0;&#x1EDD;i g&#xE2;y ra l&#x1ED7;i](https://user-images.githubusercontent.com/64824123/103728796-8b7fb280-5011-11eb-9108-4c4ceadf27e6.png)
 
@@ -38,19 +46,18 @@ Sau khi thay đổi cấu hình mục tài chính thành công, hệ thống s�
 
 ![Th&#xF4;ng tin ng&#x1B0;&#x1EDD;i g&#xE2;y ra l&#x1ED7;i trong chi ti&#x1EBF;t khi&#x1EBF;u n&#x1EA1;i](https://user-images.githubusercontent.com/64824123/103738881-51211000-5027-11eb-884d-832aba054bed.png)
 
-**III. Cấu hình số tiền duyệt cho nhân viên**
+**IV. Cấu hình số tiền duyệt KN cho nhân viên**
 
+**Cách 1:** Ngay khi cấp quyền cho Nhân viên, Quý khách có thể cấu hình hạn mức/Số tiền duyệt Khiếu nại cho Nhân viên (xem HD mục **II. Cấu hình thêm Nhân viên**)
+
+**Cách 2:** Sửa hoặc thêm hạn mức sau khi đã thêm Nhân viên thành công trước đó
 **Bước 1**: Quý khách truy cập vào trang **Danh sách nhân viên** từ menu bên trái màn hình:
 
 ![Danh s&#xE1;ch nh&#xE2;n vi&#xEA;n](https://user-images.githubusercontent.com/64824123/103739265-f50abb80-5027-11eb-858a-1970704afe29.png)
 
-**Bước 2**: Tại màn hình **Danh sách nhân viên**, quý khách chọn \(1\) để cấu hình số tiền duyệt trên khiếu nại cho từng nhân viên:
+**Bước 2**: Tìm nhân viên muốn cấp/sửa hạn mức số tiền duyệt khiếu nại => Chọn nút **sửa** (1) => Điền số tiền hạn mức tối đa theo mong muốn (2) => Chọn **Đồng ý** 
 
-![C&#x1EA5;u h&#xEC;nh s&#x1ED1; ti&#x1EC1;n duy&#x1EC7;t](https://user-images.githubusercontent.com/64824123/103740064-28017f00-5029-11eb-9fdc-c7fd5a5e1c3e.png)
-
-**Bước 3**: Quý khách nhập thông tin số tiền cần duyệt, sau đó chọn "**Thay đổi**":
-
-![Nh&#x1EAD;p s&#x1ED1; ti&#x1EC1;n c&#x1EA7;n duy&#x1EC7;t](https://user-images.githubusercontent.com/64824123/103740720-5f246000-502a-11eb-8d4f-8f230051d939.png)
+<img width="1316" alt="image" src="https://user-images.githubusercontent.com/122801493/212804635-5161db24-688d-49cc-9d6b-fb3ccfe46b64.png">
 
 Sau khi cấu hình số tiền duyệt khiếu nại thành công, hệ thống sẽ hiển thị thông báo "**Thành công**" và nhân viên sẽ được hoàn tiền với những khiếu nại có số tiền đề nghị nhỏ hơn số tiền duyệt khiếu nại đã được cấu hình trên hệ thống.
 
