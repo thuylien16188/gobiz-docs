@@ -18,9 +18,9 @@ Khiếu nại dịch vụ sau khi được tạo thành công sẽ ở trạng t
 
 **2. Xử lý Khiếu nại**
 
-**Bước 1:** Xem lý do Khiếu nại của Khách hàng => Kiểm tra phần mô tả lỗi, ảnh/video, trao đổi trước đó của Khách hàng (3) =>  Mở chi tiết đơn hàng ra để kiểm tra (4) => Lưu ý nội bộ nếu có (5) => Phản hồi thông tin cho Khách hàng (6).
+**Bước 1:** Xem lý do Khiếu nại của Khách hàng (1) => Kiểm tra phần mô tả lỗi, ảnh/video, trao đổi trước đó của Khách hàng (2) =>  Mở chi tiết đơn hàng ra để kiểm tra (3) => Lưu ý nội bộ nếu có (4) => Phản hồi thông tin cho Khách hàng (5).
 
-![image](https://user-images.githubusercontent.com/85599407/128163776-f1206738-b4ff-451f-9580-f0385e054ac8.png)
+<img width="1343" alt="image" src="https://user-images.githubusercontent.com/122801493/212863384-71a9049a-6857-4818-82a7-3f4a5341f920.png">
 
 **Bươc 2:** Yêu cầu Khách hàng cung cấp các thông tin hình ảnh/bằng chứng để phục vụ cho Khiếu nại nếu cần (6) => Kiểm tra thông tin với các Bộ phận liên quan => Phản hồi lại Khách hàng – trao đổi/đàm phán và thống nhất phương án xử lý Khiếu nại.
 
