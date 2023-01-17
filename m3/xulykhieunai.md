@@ -52,7 +52,7 @@ Sau khi duyệt hoàn tiền, Khiếu nại sẽ chuyển sang trạng thái **H
 
 ![Ho&#xE0;n ti&#x1EC1;n th&#xE0;nh c&#xF4;ng](https://user-images.githubusercontent.com/64824123/111941208-19dcde00-8b03-11eb-9248-478804bd79f1.png)
 
-**5. Từ chối Khiếu nại \(trường hợp sau khi xử lý\)** Thông báo lý do từ chối Khiếu nại cho Khách hàng (1) => ; Từ chối (2) – Có thể điền thêm lưu ý cho nội bộ (nếu cần).
+**5. Từ chối Khiếu nại (trường hợp sau khi xử lý)** Thông báo lý do từ chối Khiếu nại cho Khách hàng (1) => Bấm **Từ chối** (2) – Có thể điền thêm lưu ý cho nội bộ (nếu cần).
 Thông thường Khiếu nại sẽ được từ chối trong các tình huống: Khiếu nại tạo trùng, Khiếu nại nhầm, Khiếu nại sai, hoặc Khiếu nại đã được giải thích, trao đổi thỏa thuận thỏa đáng... Khiến Khiếu nại không cần xử lý bằng cách hoàn tiền nữa.
 
 ![image](https://user-images.githubusercontent.com/85599407/128164001-a506671f-851f-45f2-8cd6-f63da1b99954.png)
