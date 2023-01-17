@@ -1,6 +1,10 @@
-# Cấu hình
+# Cấu hình Khiếu nại
 
-**Mục đích**: Chức năng này cho phép quý khách có thể quản lý mục tài chính trên đơn, chỉnh sửa mục tài chính và thêm thông tin người gây ra lỗi. Ngoài ra quý khách có thể cấu hình số tiền duyệt trên khiếu nại cho mỗi nhân viên.
+**Mục đích**: Phục vụ cho việc phân tích/ báo cáo thống kê Khiếu nại nhằm có định hướng tìm phương án khắc phục hoặc tối ưu trong các khâu vận hành dịch vụ, Quý khách có thể cấu hình thông tin Khiếu nại các hạng mục theo mong muốn như:
+
+- Cấu hình các mục tài chính cần hoàn tiền cho Khiếu nại theo các danh mục tài chính trên đơn.
+- Cấp quyền cho nhân viên GQKN, cấu hình được hạn mức số tiền duyệt cho mỗi Khiếu nại của Nhân viên xử lý.
+- Cấu hình Bộ phận/ Nhân viên gây lỗi để phục vụ cho việc chọn/chỉ định người gây lỗi cho Khiếu nại.
 
 **I. Cấu hình mục tài chính**
 
@@ -8,7 +12,7 @@
 
 ![Menu c&#x1EA5;u h&#xEC;nh](https://user-images.githubusercontent.com/64824123/103725340-ee208080-5008-11eb-96b9-37d7ba21ab50.png)
 
-**Bước 2**: Tại màn hình **Cấu hình**, quý khách chọn icon sửa tại mục tài chính cần thay đổi:
+**Bước 2**: Tại màn hình **Cấu hình**, Quý khách có thể chọn tad sửa cấu hình của đơn hàng mua hộ **Đơn thường** hoặc đơn hàng ký gửi **Ký gửi** Sau đó chọn icon sửa tại mục tài chính cần thay đổi:
 
 ![S&#x1EED;a m&#x1EE5;c t&#xE0;i ch&#xED;nh](https://user-images.githubusercontent.com/64824123/103725527-5e2f0680-5009-11eb-90ba-e880ba282211.png)
 
