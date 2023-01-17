@@ -8,51 +8,49 @@ Khiếu nại dịch vụ sau khi được tạo thành công sẽ ở trạng t
 
 **1. Tiếp nhận Khiếu nại**
 
-**Bước 1**: Menu -&gt; Danh sách Khiếu nại \(1\) -&gt; Chờ tiếp nhận \(2\) -&gt; Click vào mã đơn hàng để mở chi tiết KN \(3\)
+**Bước 1**: Từ Menu => Chọn **Danh sách Khiếu nại** (1) => Chọn Khiếu nại **Chờ tiếp nhận** (2) => Chọn vào mã đơn hàng để mở chi tiết KN (3)
 
-![image](https://user-images.githubusercontent.com/85599407/128163704-3acd3de9-b3ba-44e2-a7a0-f3f1ae210ca4.png)
+<img width="1392" alt="image" src="https://user-images.githubusercontent.com/122801493/212852081-29b0cb3b-9ea4-461a-8b6f-89f33eb8e6e2.png">
 
-**Bước 2:** Tại giao diện chi tiết Khiếu nại chọn từ chối khiếu nại \(1\) để kết thúc khiếu nại luôn hoặc chọn “Tiếp nhận” hay phân công Khiếu nại cho Nhân viên khác xử lý \(2\).
+**Bước 2:** Tại giao diện chi tiết Khiếu nại chọn **Tiếp nhận Khiếu nại** (1) hoặc Quản lý có quyền chọn **Nhân viên xử lý** (2) để gán chỉ định người xử lý khiếu nại từ chối khiếu nại hoặc Chọn **Từ chối** để kết thúc khiếu nại luôn (3).
 
-![image](https://user-images.githubusercontent.com/85599407/128159752-3472dd84-b49c-4d92-a1f5-62ed3dd4afba.png)
+<img width="1392" alt="image" src="https://user-images.githubusercontent.com/122801493/212852909-10434edc-bddd-4f82-ae4a-0b018c3d7396.png">
 
 **2. Xử lý Khiếu nại**
 
-**Bước 1:** Xem lý do Khiếu nại của Khách hàng \(2\) -&gt; Kiểm tra phần mô tả lỗi, ảnh/video, trao đổi trước đó của Khách hàng \(3\) -&gt; Mở chi tiết đơn hàng ra để kiểm tra \(4\) -&gt; Lưu ý nội bộ nếu có \(5\) -&gt; Phản hồi thông tin cho Khách hàng \(6\).
+**Bước 1:** Xem lý do Khiếu nại của Khách hàng => Kiểm tra phần mô tả lỗi, ảnh/video, trao đổi trước đó của Khách hàng (3) =>  Mở chi tiết đơn hàng ra để kiểm tra (4) => Lưu ý nội bộ nếu có (5) => Phản hồi thông tin cho Khách hàng (6).
 
 ![image](https://user-images.githubusercontent.com/85599407/128163776-f1206738-b4ff-451f-9580-f0385e054ac8.png)
 
-**Bươc 2:** Yêu cầu Khách hàng cung cấp các thông tin hình ảnh/bằng chứng để phục vụ cho Khiếu nại \(nếu có\) -&gt; Kiểm tra thông tin với các Bộ phận liên quan -&gt; Phản hồi lại Khách hàng – trao đổi/đàm phán và thống nhất phương án xử lý Khiếu nại.
+**Bươc 2:** Yêu cầu Khách hàng cung cấp các thông tin hình ảnh/bằng chứng để phục vụ cho Khiếu nại nếu cần (6) => Kiểm tra thông tin với các Bộ phận liên quan => Phản hồi lại Khách hàng – trao đổi/đàm phán và thống nhất phương án xử lý Khiếu nại.
 
 **3. Chấp nhận Khiếu nại**
 
-**Bước 1:** Ghi chú nội bộ thông tin nếu có \(1\) -&gt; Phản hồi thông tin chốt lên Khiếu nại cho Khách hàng \(2\) -&gt; Chọn “ thêm” để tạo tài chính cần hoàn \(3\) -&gt; Tạo tài chính Khiếu nại \(4\) -&gt; Lưu \(5\) -&gt; Chọn “Thêm” tại mục lỗi xuất phát nếu có \(6\) -&gt; Điền nội dung lỗi xuất phát \(7\) -&gt; Chọn “Lưu” \(8\).
+**Bước 1:** Ghi chú nội bộ thông tin nếu có (1) => Phản hồi thông tin chốt lên Khiếu nại cho Khách hàng (2) => Chọn “Thêm” để tạo tài chính cần hoàn (3) => Điền thông tin tài chính Khiếu nại cần hoàn (4) => Lưu (5) => Chọn “Thêm” tại mục lỗi xuất phát nếu có (6) => Điền nội dung lỗi xuất phát (7) => Chọn “Lưu” (8).
 
-![image](https://user-images.githubusercontent.com/85599407/128163844-80d2711a-4d05-481f-8001-29a32b936a6b.png)
+<img width="1390" alt="image" src="https://user-images.githubusercontent.com/122801493/212857713-492b3918-3299-4de1-af64-6990dabcdccb.png">
 
-**Bước 2:** Bấm chấp nhận Khiếu nại
+**Bước 2:** Bấm **chấp nhận** để chuyển bước Khiếu nại sang chờ duyệt hoàn tiền.
 
-![image](https://user-images.githubusercontent.com/85599407/128163903-c80fd352-2280-4c80-85df-e445068bbd4f.png)
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/122801493/212858562-cb532b27-876d-4cd4-a088-235f1b8a75e1.png">
 
-**4. Hoàn tiền**
+**4. Hoàn tiền** 
 
-**Bươc 1:** Người duyệt hoàn tiền cần kiểm tra chi tiết xem Khiếu nại đã được xử lý đúng chưa, số tiền hoàn cho Khách hàng đã chính xác chưa.
+**Bươc 1:** Người duyệt hoàn tiền cần kiểm tra chi tiết xem Khiếu nại đã được xử lý đúng và phù hợp theo đúng quy định/Chính sách hay chưa, số tiền hoàn cho Khách hàng đã chính xác chưa.
 
-**Bước 2:** Bấm nút hoàn tiền \(1\) hoặc bấm nút Đàm phán lại \(2\) trong tình huống Khiếu nại xử lý chưa đúng/chưa thoả đáng để yêu cầu xử lý lại Khiếu nại cho Khách hàng.
+**Bước 2:** Bấm nút **hoàn tiền** (1) để hoàn tiền luôn cho đơn hàng hoặc bấm nút **Đàm phán lại** (2) trong tình huống Khiếu nại xử lý chưa đúng/chưa thoả đáng để yêu cầu xử lý lại Khiếu nại cho Khách hàng.
 
-![image](https://user-images.githubusercontent.com/85599407/128163958-3fe21df1-8617-4335-b1f7-fb8c0864631e.png)
+<img width="1405" alt="image" src="https://user-images.githubusercontent.com/122801493/212858930-59315835-bf7d-4ed2-8360-26acab0bcfdf.png">
 
-**Bước 3:** Nhập mã pin xác nhận \(1\) -&gt; Đồng ý \(2\)
+**Bước 3:** Nhập mã pin xác nhận (1) => Đồng ý (2).
 
-![image](https://user-images.githubusercontent.com/85599407/128161007-fdffe96b-4192-4b76-bd7c-731eb21f1e2c.png)
+<img width="1406" alt="image" src="https://user-images.githubusercontent.com/122801493/212859202-319651b5-8aee-4c81-ac50-e3a860eac917.png">
 
-Sau khi duyệt hoàn tiền, Khiếu nại sẽ chuyển sang trạng thái **Hoàn tiền**, số tiền hoàn được cộng vào ví điện tử của Khách hàng.
+*Lưu ý*: Mã pin mặc định thường sẽ là 654321 hoặc 123456
+
+Sau khi duyệt hoàn tiền, Khiếu nại sẽ chuyển sang trạng thái **Hoàn tiền**, số tiền hoàn sẽ được cộng ngay vào ví điện tử của Khách hàng.
 
 ![Ho&#xE0;n ti&#x1EC1;n th&#xE0;nh c&#xF4;ng](https://user-images.githubusercontent.com/64824123/111941208-19dcde00-8b03-11eb-9248-478804bd79f1.png)
-
-**Bước 4:** Đóng khiếu nại sau khi hoàn tiền thành công
-
-![image](https://user-images.githubusercontent.com/85599407/128161370-d01b33a2-5da0-493a-a4c1-6cdb92ebe7ff.png)
 
 **5. Từ chối Khiếu nại \(trường hợp sau khi xử lý\)** Thông báo lý do từ chối Khiếu nại cho Khách hàng \(1\) -&gt; Từ chối \(2\) – Có thể điền thêm lưu ý cho nội bộ \(nếu cần\).
 
