@@ -6,7 +6,7 @@
 - Cấp quyền cho nhân viên GQKN, cấu hình được hạn mức số tiền duyệt cho mỗi Khiếu nại của Nhân viên xử lý.
 - Cấu hình Bộ phận/ Nhân viên gây lỗi để phục vụ cho việc chọn/chỉ định người gây lỗi cho Khiếu nại.
 
-**I. Cấu hình mục tài chính**
+**I. Cấu hình Danh mục tài chính**
 
 **Bước 1**: Quý khách truy cập vào trang **Cấu hình** từ menu bên trái màn hình:
 
