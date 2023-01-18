@@ -11,7 +11,7 @@
 
 <img width="1350" alt="image" src="https://user-images.githubusercontent.com/122801493/213120008-93017353-6f06-4b6c-9744-4a23461325f5.png">
 
-**2. Sửa thông tin Khách hàng
+**2. Sửa thông tin Khách hàng**
 
 Tại trang quản lý Khách hàng, Nhân viên được cấp quyền sẽ có thể sửa được các thông tin như:
 
@@ -27,7 +27,7 @@ Tại trang quản lý Khách hàng, Nhân viên được cấp quyền sẽ có
 
 <img width="1062" alt="image" src="https://user-images.githubusercontent.com/122801493/213121743-8f882ec2-547c-4beb-ba6c-19e7331bf953.png">
 
-**3. Kiểm tra giao dịch tài chính và cấu hình nhận thông báo
+**3. Kiểm tra giao dịch tài chính và cấu hình nhận thông báo**
 
 - Tại trang quản lý Khách hàng, Nhân viên có thể lọc và check được giao dịch tài chính của Khách hàng theo từng thời điểm mong muốn
 
