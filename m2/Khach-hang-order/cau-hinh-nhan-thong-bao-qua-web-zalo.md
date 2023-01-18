@@ -1,5 +1,5 @@
 
-# CẤU HÌNH NHẬN THÔNG BÁO QUA ZALO OA
+# CẤU HÌNH NHẬN THÔNG BÁO QUA ZALO
 
 **1. Cấu hình nhận thông báo**
 
@@ -7,7 +7,7 @@
 
 <img width="1387" alt="image" src="https://user-images.githubusercontent.com/122801493/213126762-29cfcfc8-5cd5-4127-9dd7-89a7951b4eef.png">
 
-**2. Đăng ký nhận thông báo qua Zalo OA
+**2. Đăng ký nhận thông báo qua Zalo**
 
 Áp dụng trong trường hợp đơn vị cung cấp dịch vụ có đăng ký sử dụng tài Zalo OA
 
